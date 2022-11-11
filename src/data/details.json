@@ -1,0 +1,31 @@
+{
+  "firstName": "Carlos",
+  "middleName": ".",
+  "lastName": "Esteves",
+  "avatar": "perfil.png",
+  "titles": [
+    "React",
+    "React Hooks",
+    "React Native",
+    "Microfrontends",
+    "Next.JS",
+    "Context API",
+    "Redux",
+    "Styled Components",
+    "Javascript",
+    "HTML 5",
+    "CSS3",
+    "GIT",
+    "Figma"
+  ],
+  "socialNetworks": [
+    {
+      "link": "https://github.com/kien-dang/react-resume-template",
+      "iconName": "faGithub"
+    },
+    {
+      "link": "https://www.linkedin.com/in/trung-kien-dang",
+      "iconName": "faLinkedin"
+    }
+  ]
+}

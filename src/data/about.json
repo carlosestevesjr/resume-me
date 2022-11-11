@@ -1,0 +1,128 @@
+{
+  "username": "Carlos Esteves",
+  "objective": "<p>Sou desenvolvedor apaixonado por tecnologia, filmes, series, voz, violão. Nesta pequena jornada eu aprendi não só como programar com essas respectivas skills, mas também, reforcei a crença que só se cresce compartilhando conhecimento, tendo boas convivências e entendendo o que te move. Se você simpatiza com esses valores ou precisa de parceria estou pronto a te ouvir.<\/p>",
+  "resumeUrl": "#",
+  "skills": [
+    {
+      "name": "React",
+      "confidence": 100,
+      "color": "rgb(255, 209, 92)"
+    },
+    {
+        "name": "React Hooks",
+        "confidence": 100,
+        "color": "rgb(255, 76, 96)"
+    },
+    {
+        "name": "React Native",
+        "confidence": 100,
+        "color": "rgb(108, 108, 229)"
+    },
+    {
+        "name": "Next.Js",
+        "confidence": 100,
+        "color": "rgb(255, 209, 92)"
+    },
+    {
+        "name": "Styled Components",
+        "confidence": 100,
+        "color": "rgb(51, 105, 30)"
+    },
+    {
+      "name": "Redux",
+      "confidence": 100,
+      "color": "rgb(108, 108, 229)"
+    },
+    {
+        "name": "TypeScript",
+        "confidence": 100,
+        "color": "rgb(51, 105, 30)"
+    },
+    {
+        "name": "Microfrontends",
+        "confidence": 100,
+        "color": "rgb(255, 209, 92)"
+    },
+    {
+        "name": "Html 5",
+        "confidence": 100,
+        "color": "rgb(108, 108, 229)"
+    },
+    {
+        "name": "CSS3",
+        "confidence": 100,
+        "color": "rgb(255, 76, 96)"
+    },
+    {
+      "name": "Javascript",
+      "confidence": 100,
+      "color": "rgb(255, 209, 92)"
+    },
+    {
+        "name": "CSS3",
+        "confidence": 100,
+        "color": "rgb(255, 76, 96)"
+    },
+    {
+        "name": "Jquery",
+        "confidence": 100,
+        "color": "rgb(255, 209, 92)"
+    },
+    {
+        "name": "Context Api",
+        "confidence": 100,
+        "color": "rgb(255, 76, 96)"
+    },
+    {
+        "name": "Laravel",
+        "confidence": 100,
+        "color": "rgb(51, 105, 30)"
+    },
+    {
+        "name": "PHP",
+        "confidence": 100,
+        "color": "rgb(255, 209, 92)"
+    },
+    {
+        "name": "Mysql",
+        "confidence": 100,
+        "color": "rgb(108, 108, 229)"
+    },
+    {
+        "name": "Figma",
+        "confidence": 100,
+        "color": "rgb(255, 76, 96)"
+    },
+    {
+        "name": "Git",
+        "confidence": 100,
+        "color": "rgb(51, 105, 30)"
+    }
+  ],
+  "statistics": [
+    {
+      "number": 28,
+      "title": "Open-source projects",
+      "iconPrefix": "fab",
+      "iconName": "osi"
+    },
+    {
+      "number": 59,
+      "title": "Projects completed",
+      "iconPrefix": "fas",
+      "iconName": "tasks"
+    },
+    {
+      "number": 3285,
+      "title": "Cup of coffee",
+      "iconPrefix": "fas",
+      "iconName": "coffee"
+    },
+    {
+      "number": 2,
+      "title": "Publications",
+      "iconPrefix": "far",
+      "iconName": "newspaper"
+    }
+  ]
+}

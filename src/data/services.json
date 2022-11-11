@@ -1,0 +1,40 @@
+{
+    "customContent": "Looking for custom jobs? <a href=\"#contact\">Click here<\/a> to contact me! <span role=\"img\" aria-label=\"wave\">👋<\/span>",
+    "services": [
+        {
+            "title": "Meu Hype",
+            "backgroundColor": "rgb(61, 61, 78)",
+            "content": "Projeto em desenvolvimento com Next.JS, React, Styled Components, Bootstrap, Figma para composição do Front End.",
+            "delay": 0,
+            "link_project":"https://meuhype.vercel.app/"
+        },
+        {
+            "title": "Meu Hype Aplicativo APK",
+            "backgroundColor": "rgb(61, 61, 78)",
+            "content": "Projeto em desenvolvimento com React Native e Redux.",
+            "delay": 0,
+            "link_project":"http://192.168.15.6:9000/pokedex"
+        },
+        {
+            "title": "Meu Hype Aplicativo APK",
+            "backgroundColor": "rgb(61, 61, 78)",
+            "content": "Projeto em desenvolvimento com React Native e Redux.",
+            "delay": 0,
+            "link_project":"http://192.168.15.6:9000/pokedex"
+        },
+        {
+            "title": "Meu Hype Aplicativo APK",
+            "backgroundColor": "rgb(61, 61, 78)",
+            "content": "Projeto em desenvolvimento com React Native e Redux.",
+            "delay": 0,
+            "link_project":"http://192.168.15.6:9000/pokedex"
+        },
+        {
+            "title": "Meu Hype Aplicativo APK",
+            "backgroundColor": "rgb(61, 61, 78)",
+            "content": "Projeto em desenvolvimento com React Native e Redux.",
+            "delay": 0,
+            "link_project":"http://192.168.15.6:9000/pokedex"
+        }
+    ]
+}
