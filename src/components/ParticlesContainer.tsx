@@ -1,4 +1,4 @@
-import React from 'react'
+import * as React from 'react'
 import Particles from 'react-tsparticles'
 import type { Engine } from 'tsparticles-engine'
 import { loadSlim } from 'tsparticles-slim'
